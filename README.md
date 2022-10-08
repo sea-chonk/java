@@ -1,3 +1,3 @@
-# java
+# Java Assignments
 
 Some Java Assignments
